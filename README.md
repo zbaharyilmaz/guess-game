@@ -37,4 +37,4 @@ Build a Find the Number Game (Between 0 to 100)
 
 ## Live Page
 
-[Click for live page]()
+[Click for live page](https://zbaharyilmaz.github.io/guess-secret-number-game/)
